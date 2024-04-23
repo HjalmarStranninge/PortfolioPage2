@@ -1,0 +1,28 @@
+{
+    "work": [
+        {
+            "company": "Elgiganten",
+            "position": "Sales person",
+            "description": "Aftersales/service, logistics, sales",
+            "years": "2019 - Current"
+        }
+    ],
+    "education": [
+        {
+            "school": "Chas Academy",
+            "description": "Fullstack Developer .NET",
+            "years": "2023-2025"
+        },
+        {
+            "school": "Rytmus Stockholm",
+            "description": "Music production",
+            "years": "2016-2019"
+        }
+    ],
+    "courses": [
+        {
+            "course": "Aftersales specialist",
+            "description": "Internal course at Elgiganten"
+        }
+    ]
+}
