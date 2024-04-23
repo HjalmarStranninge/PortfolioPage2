@@ -45,7 +45,7 @@ const Layout = () => {
             <Outlet />
 
             <div className="home-sci">
-                <a href="#"><i className='bx bxl-linkedin'></i></a>
+                <a href="https://www.linkedin.com/in/hjalmar-stranninge-966134291/"><i className='bx bxl-linkedin'></i></a>
                 <a href="https://github.com/HjalmarStranninge"><i className='bx bxl-github'></i></a>
             </div>
         </>
